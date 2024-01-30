@@ -4,52 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b9b08fd-77e9-4677-9298-4b1d9eda8ffc" name="Changes" comment="with docker compose">
-      <change afterPath="$PROJECT_DIR$/data/base/5/16388" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/base/5/16393" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/base/5/16394" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/base/5/16395" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/base/5/16397" afterDir="false" />
+    <list default="true" id="4b9b08fd-77e9-4677-9298-4b1d9eda8ffc" name="Changes" comment="with spring data">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/StudentIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/repo/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/service/StudentService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/1247" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/1247" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/1247_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/1247_vm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/1249" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/1249" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/1249_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/1249_fsm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/1249_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/1249_vm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/1259" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/1259" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/1259_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/1259_vm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2224" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2224" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2579" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2579" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2606" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2606" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2606_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2606_vm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2608" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2608" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2608_fsm" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2608_fsm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2608_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2608_vm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2610" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2610" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2610_vm" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2610_vm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2658" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2658" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2659" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2659" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2662" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2662" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2663" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2663" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2664" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2664" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2665" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2665" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2666" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2666" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2667" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2667" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2673" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2673" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2674" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2674" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2678" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2678" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2679" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2679" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2703" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2703" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2704" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2704" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/3455" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/3455" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/5002" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/5002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/data/global/pg_control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_wal/000000010000000000000001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_xact/0000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/backend/backend/controller/StudentsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/controller/StudentsController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +124,23 @@
       <option name="project" value="LOCAL‎" />
       <updated>1706627270044</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎-00002" summary="with spring data">
+      <option name="closed" value="true" />
+      <created>1706628301287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL‎-00002" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1706628301287</updated>
+    </task>
+    <task id="LOCAL‎-00003" summary="with spring data">
+      <option name="closed" value="true" />
+      <created>1706628312837</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1706628312837</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -181,7 +157,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="with docker compose" />
-    <option name="LAST_COMMIT_MESSAGE" value="with docker compose" />
+    <MESSAGE value="with spring data" />
+    <option name="LAST_COMMIT_MESSAGE" value="with spring data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
