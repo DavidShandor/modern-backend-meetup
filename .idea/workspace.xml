@@ -4,34 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b9b08fd-77e9-4677-9298-4b1d9eda8ffc" name="Changes" comment="with students CRUD">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/StudentOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/StudentSortField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/model/Pagination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/model/PaginationAndList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/model/SortDirection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/util/FPS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/util/FPSCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/util/FPSField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/util/Strings.java" afterDir="false" />
+    <list default="true" id="4b9b08fd-77e9-4677-9298-4b1d9eda8ffc" name="Changes" comment="with FPS">
+      <change afterPath="$PROJECT_DIR$/data/base/5/16398" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/base/5/16401" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/base/5/16402" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/base/5/16403" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/controller/StudentsGradesController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/model/GradeIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/model/StudentGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/repo/StudentGradeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/handson/backend/service/StudentGradeService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/1249" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/1249" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/16388" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/16388" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/16395" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/16395" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/16397" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/16397" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2224" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2224" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2606" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2606" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2608" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2608" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/2610" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/2610" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/base/5/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/data/base/5/pg_internal.init" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/global/pg_control" beforeDir="false" afterPath="$PROJECT_DIR$/data/global/pg_control" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/global/pg_internal.init" beforeDir="false" afterPath="$PROJECT_DIR$/data/global/pg_internal.init" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pg_wal/000000010000000000000001" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_wal/000000010000000000000001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/pg_xact/0000" beforeDir="false" afterPath="$PROJECT_DIR$/data/pg_xact/0000" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/postmaster.pid" beforeDir="false" afterPath="$PROJECT_DIR$/data/postmaster.pid" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/backend/backend/controller/StudentsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/controller/StudentsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/backend/backend/repo/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/repo/StudentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/backend/backend/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/service/StudentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/StudentOut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/StudentOut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/StudentSortField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/backend/backend/model/StudentSortField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/backend/backend/controller/StudentsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/backend/backend/controller/StudentsController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +160,15 @@
       <option name="project" value="LOCAL‎" />
       <updated>1706629529677</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL‎-00005" summary="with FPS">
+      <option name="closed" value="true" />
+      <created>1706688035599</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL‎-00005" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1706688035600</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -191,7 +187,8 @@
     <MESSAGE value="with docker compose" />
     <MESSAGE value="with spring data" />
     <MESSAGE value="with students CRUD" />
-    <option name="LAST_COMMIT_MESSAGE" value="with students CRUD" />
+    <MESSAGE value="with FPS" />
+    <option name="LAST_COMMIT_MESSAGE" value="with FPS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
